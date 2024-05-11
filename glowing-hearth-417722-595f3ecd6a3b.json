@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "glowing-hearth-417722",
+  "private_key_id": "595f3ecd6a3bab5dc7b88632c6d03f4c8ecd4d70",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDgWMs0t5js8yBz\nmppspZSmQqnvtA0Bi9JpK53bFI/VAQuHQnPZFpUWFit9lXIbOIsQ3CdOYjAqTypM\nJWc+O4ygpIi5mzHynpgOXYzaW9jlYdFN77S3Am4WWgHW6Bz16dVQy1YTonf42pmR\n/3aR4n1pkCEAbr0CnHXP/9sFCaqlAuFWt9rK46GgCRGk+GZIwx0q/o5aZPSDmLUL\nNqU9z6pzFQEaTUIkcg0Q9UlD5FHvXf3Q+1IIy634zomdPrjB9wR2/s/w+O/H7ORO\n8qQVTO9oSHa81+WrvhDwXKaNjPhFbMOSfoKJ7CtLrteHDUSMKzUcZsu2dUigyewN\nauVfJHvPAgMBAAECggEARyLQmDApHOUAordghNfB+TAFK1z3jMh1mOR8IsXzz3IL\n4kEnc6vt7Plto935tvjoW5m7GucWZ6v/ePKZOInwTtWtBtFXdptkEpYGPgzGiwFH\nuUMrFaZ/GrZChA7IdA9HlN1Mt2AaU32ZGUqcIajj5E+Pr0/tvcC3uJLjs0a75aMa\nWprnGgQ9/QdP9jCZnJ9XCMrm532QKFLv40aQFFzEAIEg50RFkupOvEiN3tVTkXKQ\n/IQeTPoZ9QgHoGxVT6iaACvZ1QS6mFNr/DahkwWIBSkD6ZJeyXSTGUwhIAAh7LiQ\nTkJBG7Q1U2nk2INVxPS0Nq2t4PTfNYi4SRVYtcGyaQKBgQD/7k6XQ5Wc7LmCk3Ni\ny4ANIXBGcJjHEKiLFq+CzcoBMEZt5M3d2Nr6nhd6JhVQ3xoF+h9UYoUYg6Vqp04i\n/EN6UUwwl877rzKjBO4o8+Ow4B+ngZ9EUV3rnR8UeQ7AVVuaSOmxtQIeJaifTwGw\ngKeWWmzEgnJK6Wj0GSH5chYvOQKBgQDgaE2lzNSQGgTMtsG+aArsA6SxfyTmHaUL\ncaevCbsv1tVVUYJpdfz+UvfmOPns9IVacpkQCOky2L5OFRboRjqi+r+gGGBRIX4T\n7yY7bpcA6jIMS/c6qwst6Dbbi1PSoEmrWAZeuBVVq5+u8MtvR+D2AQi2Q5rRScNX\nBjUtJ7V7RwKBgCN1aP4cJwZu5eTpePsfJsaq81tPDlvGOxPKONbunCY+AgQHx14N\nRYmjja0myZ1Cy+A4H08Zt0cGNkzokTLXsKGp0dyJq+vDAkkDzdturwU6iCg1FVPp\n0hFq23uCqkCLkv11TKuKYJi8rvgjgiBqMs3qCVfQmvU2EYyATuy4mcpBAoGBAJA8\n+ouzWH02/BbI8Ub9gOeqf9VGr+To8QimCO3NB2/8Wir4tSYsHG0rzwM/ZAUWNhCo\n0BEqaRmxjsCJdaveWBohqcGxaVc8e9k8Qgq5Tn3cCkc1HLes8QaU143NxBcBx9hG\nP/HpyGzEX2MGivv/62yzxXHBimUzUEdDSjK370JJAoGAUaIRlPwoYl3odNGDfWjt\n8YWuoiiKipoOxtUXeR33r0lNjLLnjxpo6e4jYy5bbHEnpsVWLIy46mcWrHXLSwWn\nskcXzp3ZvPbgEU7iPPqMVUUOhCMb6K/3PYQX8zHWKDj9shw7kTnSfS0BNFX3vDa6\nh3HsBuzTNVzjsAG8f7NTa/g=\n-----END PRIVATE KEY-----\n",
+  "client_email": "elghetani-terrafrom@glowing-hearth-417722.iam.gserviceaccount.com",
+  "client_id": "112842488200771743240",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/elghetani-terrafrom%40glowing-hearth-417722.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
